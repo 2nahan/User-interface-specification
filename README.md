@@ -42,7 +42,7 @@
 - Hide Disabled Users Checkbox unchecked.
 - User Form fields empty, Save User Button disabled.
 
-## UI Behavior
+## Behavior
 
 ### User List Table
 - **Default View**: Display all users sorted by ID.

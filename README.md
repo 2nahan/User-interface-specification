@@ -10,7 +10,7 @@
 
 ## UI Components
 
-### User List Table
+### Table
 - **Columns**:
   - ID
   - User Name

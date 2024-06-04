@@ -21,12 +21,10 @@
 - **Filtering**: Filter by enabled status.
 
 ### New User Button
-- **Button**: Opens the form to add a new user.
-- **Position**: Top-left.
+- **Button**: Opens the form to add a new user.(Top-left)
 
 ### Hide Disabled Users Checkbox
-- **Checkbox**: Toggles visibility of disabled users.
-- **Position**: Next to the New User Button.
+- **Checkbox**: Toggles visibility of disabled users. (Next to the New User Button)
 
 ### User Form (New/Edit User)
 - **Fields**:
@@ -36,10 +34,9 @@
   - Email (Email)
   - User Roles (Dropdown)
   - Enabled (Checkbox)
-- **Save User Button**: Submits form to save user details.
-- **Position**: Right side.
+- **Save User Button**: Submits form to save user details. (Right side)
 
-## Initial State
+## At the Beginning
 - Display User List Table with all users.
 - New User Button visible.
 - Hide Disabled Users Checkbox unchecked.
@@ -71,9 +68,3 @@
 
 ## Success Messages
 - **Add/Edit**: Shows message on successful addition or update.
-
-## Accessibility Considerations
-- Ensure all elements are keyboard accessible.
-- Provide screen reader labels and instructions.
-- Maintain color contrast.
-
